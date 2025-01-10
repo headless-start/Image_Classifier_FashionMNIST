@@ -7,16 +7,16 @@ This project demonstrates the loading, preprocessing, and visualization of the F
 Dataset: Fashion MNIST
 Images: 28x28 pixel grayscale images of fashion items (e.g., T-shirts, shoes, dresses).
 Classes: 10 categories of clothing items:
-  T-shirt/top
-  Trouser
-  Pullover
-  Dress
-  Coat
-  Sandal
-  Shirt
-  Sneaker
-  Bag
-  Ankle boot
+  1. T-shirt/top
+  2. Trouser
+  3. Pullover
+  4. Dress
+  5. Coat
+  6. Sandal
+  7. Shirt
+  8. Sneaker
+  9. Bag
+  10. Ankle boot
 
 # How It Works
 
@@ -30,3 +30,19 @@ The images are then prepared for visualization and model input.
 3. Visualization
 The first image from the training dataset is displayed.
 A grid of 25 training images is shown with their corresponding labels.
+
+4. Labels
+The labels represent the type of clothing item in each image. For instance:
+
+0: T-shirt/top
+1: Trouser
+2: Pullover
+... and so on.
+
+# Sample Visualizations
+
+1. First Image in the Dataset:
+The first image from the training set is displayed with a color bar, showing the raw pixel data.
+
+3. Grid of 25 Training Images:
+A 5x5 grid of the first 25 training images is displayed, with each image labeled according to its class (T-shirt, trouser, dress, etc.).
