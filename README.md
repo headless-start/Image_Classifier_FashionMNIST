@@ -46,3 +46,7 @@ The first image from the training set is displayed with a color bar, showing the
 
 3. Grid of 25 Training Images:
 A 5x5 grid of the first 25 training images is displayed, with each image labeled according to its class (T-shirt, trouser, dress, etc.).
+
+
+# System Requirememnts
+1. Ensure version of Tensorflow compatible with cuDNN library.
