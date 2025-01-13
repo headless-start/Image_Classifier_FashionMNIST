@@ -8,14 +8,23 @@ Dataset: Fashion MNIST
 Images: 28x28 pixel grayscale images of fashion items (e.g., T-shirts, shoes, dresses).
 Classes: 10 categories of clothing items:
   1. T-shirt/top
+  
   2. Trouser
+  
   3. Pullover
+  
   4. Dress
+  
   5. Coat
+  
   6. Sandal
+  
   7. Shirt
+  
   8. Sneaker
+  
   9. Bag
+  
   10. Ankle boot
 
 # How It Works
@@ -50,10 +59,15 @@ A 5x5 grid of the first 25 training images is displayed, with each image labeled
 
 # System Requirememnts
 
-1.Python 3.6+
+1. Python 3.6+
+
 2. TensorFlow 2.x (Ensure version of Tensorflow compatible with cuDNN library.)
+
 3. TensorFlow Datasets
+
 4. Matplotlib
+
 5. Pillow (PIL)
+
 6. TensorFlow Docs (optional for visualization)
 
