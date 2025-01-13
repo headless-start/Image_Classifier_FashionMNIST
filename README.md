@@ -49,4 +49,11 @@ A 5x5 grid of the first 25 training images is displayed, with each image labeled
 
 
 # System Requirememnts
-1. Ensure version of Tensorflow compatible with cuDNN library.
+
+1.Python 3.6+
+2. TensorFlow 2.x (Ensure version of Tensorflow compatible with cuDNN library.)
+3. TensorFlow Datasets
+4. Matplotlib
+5. Pillow (PIL)
+6. TensorFlow Docs (optional for visualization)
+
