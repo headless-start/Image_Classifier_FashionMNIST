@@ -54,7 +54,7 @@ This project demonstrates the **loading, preprocessing, and visualization** of t
 ---
 
 ## 🛠 System Requirements  
-1. **Python**: 3.6+  
+1. **Python**: 3.8+  
 2. **TensorFlow**: 2.x (Ensure compatibility with cuDNN library.)  
 3. **TensorFlow Datasets**: For loading the dataset.  
 4. **Matplotlib**: For visualization.  
