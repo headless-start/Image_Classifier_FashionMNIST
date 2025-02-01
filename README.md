@@ -53,6 +53,7 @@ This project demonstrates the **loading, preprocessing, and visualization** of t
 ### Dependencies  
 - Python 3.8+  
 - Libraries: `numpy`, `pandas`, `tensorflow`, `keras`
+- Hardware: GPU with cuDNN support (recommended)
 
 ---
 
