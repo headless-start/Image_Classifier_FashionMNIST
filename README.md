@@ -41,25 +41,18 @@ This project demonstrates the **loading, preprocessing, and visualization** of t
 2. **Preprocessing**:  
    - Normalize pixel values to improve model training efficiency.  
 3. **Visualization**:  
-   - Display individual images and grids of images with labels for better understanding.  
-
----
-
-## 📊 Sample Visualizations  
-1. **First Image in the Dataset**:  
+   - Display individual images and grids of images with labels for better understanding.
+4. **First Image in the Dataset**:  
    - The first image from the training set is displayed with a color bar, showing raw pixel data.  
-2. **Grid of 25 Training Images**:  
+5. **Grid of 25 Training Images**:  
    - A 5x5 grid of the first 25 training images is displayed, with each image labeled according to its class (e.g., T-shirt, trouser, dress).  
 
 ---
 
-## 🛠 System Requirements  
-1. **Python**: 3.8+  
-2. **TensorFlow**: 2.x (Ensure compatibility with cuDNN library.)  
-3. **TensorFlow Datasets**: For loading the dataset.  
-4. **Matplotlib**: For visualization.  
-5. **Pillow (PIL)**: For image processing.  
-6. **TensorFlow Docs**: Optional for advanced visualization.  
+## 🛠 System Requirements 
+### Dependencies  
+- Python 3.8+  
+- Libraries: `numpy`, `pandas`, `tensorflow`, `keras`
 
 ---
 
